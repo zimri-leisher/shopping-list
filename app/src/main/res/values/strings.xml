@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="title_activity_scrolling">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_item_description">Enter item description</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="enter_estimated_price">Enter estimated price</string>
+    <string name="purchased">Purchased</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="clear">Clear</string>
+    <string name="total">Total</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Book</item>
+        <item>Drink</item>
+    </string-array>
+</resources>
